@@ -255,6 +255,24 @@ nav ul li a:hover{
     margin-bottom:10px;
     color:#cbd5e1;
 }
+/* =========================
+   EDUCATION
+========================= */
+
+#education .card{
+    max-width:900px;
+    margin:auto;
+    text-align:center;
+}
+
+#education h4{
+    color:#93c5fd;
+    margin:10px 0;
+}
+
+#education p{
+    color:#cbd5e1;
+}
 
 /* =========================
    PROJECTS
